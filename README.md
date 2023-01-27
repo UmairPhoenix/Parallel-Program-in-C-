@@ -1,1 +1,1 @@
-# Parallel-Program-in-C-
+# Parallel-Program-in-C++
